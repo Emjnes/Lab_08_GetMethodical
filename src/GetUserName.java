@@ -12,3 +12,4 @@ class GetUserName
             System.out.println("\nYour full name is: " + firstName + " " + lastName);
     }
 }
+
